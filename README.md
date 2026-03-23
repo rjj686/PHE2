@@ -186,7 +186,7 @@ Each document is annotated as structured JSON:
 ## 📖 Citation
 
 If you find this dataset useful for your research, please consider citing our paper.
-
+If you have any questions or suggestions, please feel free to contact us at chenqian@sxu.edu.cn.
 ```bibtex
 
 ```
