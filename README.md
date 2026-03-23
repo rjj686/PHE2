@@ -2,7 +2,6 @@
 
  PHE<sup>2</sup>: A Chinese Document-level Dataset for Public Health Event Extraction
 
- PHE<sup>2</sup> can also be obtained from: 
 
 ## 📌 Overview
 
