@@ -1,0 +1,62 @@
+{
+  "event_types": [
+    {"name_zh": "环保项目中标", "name_en": "Project Bid Winning"},
+    {"name_zh": "水污染", "name_en": "Water Pollution"},
+    {"name_zh": "疫情数据通报", "name_en": "Epidemic Data Reporting"},
+    {"name_zh": "确诊病例溯源", "name_en": "Case Tracing"},
+    {"name_zh": "药品上市", "name_en": "Drug Launch"},
+    {"name_zh": "食品抽检", "name_en": "Food Sampling"},
+    {"name_zh": "食物中毒", "name_en": "Food Poisoning"},
+    {"name_zh": "卫生宣传活动", "name_en": "Health Campaign"},
+    {"name_zh": "纪念英雄", "name_en": "Hero Commemoration"},
+    {"name_zh": "爱心捐赠", "name_en": "Donation"},
+    {"name_zh": "疫苗研发", "name_en": "Vaccine Development"}
+  ],
+
+  "roles": {
+    "环保项目中标": {
+      "zh": ["中标时间", "中标公司", "中标项目", "中标金额"],
+      "en": ["Winning Time", "Winning Company", "Winning Project", "Bid Amount"]
+    },
+    "水污染": {
+      "zh": ["时间", "污染源", "涉事主体", "污染流域"],
+      "en": ["Time", "Pollution Source", "Involved Party", "Polluted Area"]
+    },
+    "疫情数据通报": {
+      "zh": ["报道时间", "疾病名称", "发布机构", "通报区域", "新增确诊人数", "新增疑似人数", "新增死亡人数", "累计确诊病例"],
+      "en": ["Reporting Time", "Disease Name", "Publishing Agency", "Reported Region", "New Confirmed Cases", "New Suspected Cases", "New Deaths", "Cumulative Confirmed Cases"]
+    },
+    "确诊病例溯源": {
+      "zh": ["确诊主体", "来源地", "确诊时间", "确诊地点", "症状", "检测方式"],
+      "en": ["Patient", "Origin", "Confirmation Time", "Confirmation Location", "Symptoms", "Testing Method"]
+    },
+    "药品上市": {
+      "zh": ["研发机构", "药品名称", "适用疾病", "商用名", "批准机构", "批准时间"],
+      "en": ["Research Institution", "Drug Name", "Indication", "Trade Name", "Approval Agency", "Approval Time"]
+    },
+    "食品抽检": {
+      "zh": ["抽检时间", "抽检机构", "总批次", "合格批次", "不合格批次", "抽检对象"],
+      "en": ["Sampling Time", "Sampling Agency", "Total Batches", "Qualified Batches", "Unqualified Batches", "Sampling Object"]
+    },
+    "食物中毒": {
+      "zh": ["时间", "地点", "中毒人数", "中毒源", "症状", "死亡人数"],
+      "en": ["Time", "Location", "Poisoned Count", "Poison Source", "Symptoms", "Death Count"]
+    },
+    "卫生宣传活动": {
+      "zh": ["活动时间", "组织机构", "活动主题", "相关卫生纪念日"],
+      "en": ["Event Time", "Organizer", "Theme", "Related Health Day"]
+    },
+    "纪念英雄": {
+      "zh": ["姓名", "职业", "单位", "事迹荣誉"],
+      "en": ["Name", "Occupation", "Affiliation", "Deeds"]
+    },
+    "爱心捐赠": {
+      "zh": ["捐赠时间", "捐赠方", "受捐方", "捐赠内容", "捐赠用途"],
+      "en": ["Donation Time", "Donor", "Recipient", "Donated Content", "Donation Purpose"]
+    },
+    "疫苗研发": {
+      "zh": ["时间", "机构名", "研究阶段", "疫苗项目名称"],
+      "en": ["Time", "Institution Name", "Research Phase", "Vaccine Project Name"]
+    }
+  }
+}
